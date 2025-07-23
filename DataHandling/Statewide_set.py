@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 
 def load_and_clean_data(file_path):
@@ -58,7 +57,7 @@ def main():
         'Data/Statewide-Monthly/Min_Wage_a.csv',
         'Data/Statewide-Monthly/ProducerPriceIndexUSA.csv',
         'Data/Statewide-Monthly/avg_tarrif_a.csv', 
-        'Data/Statewide-Monthly/California_Electrical_Energy_Gen_a.csv',
+        'Data/Statewide-Monthly/EnergyGen.csv',
         'Data/Statewide-Monthly/Mfg_GDP_q_seasonal.csv'
     ]
     
